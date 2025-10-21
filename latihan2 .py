@@ -1,0 +1,11 @@
+print("=+=+=+=+ Data diri mahasiswa =+=+=+=+")
+nim = input("Nim : ")
+nama = input("Nama Lengkap : ")
+jurusan = input("jurusan : ")
+alamat = input (" alamat : ")
+
+print("hasil cetak data diatas adalah")
+print("nim : " +str(nim))
+print("nama : " +str(nama))
+print("jurusan : " +str(jurusan))
+print("alamat : " +str(alamat))
